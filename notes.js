@@ -2,11 +2,6 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-
-const getNotes = function () {
-     console.log(chalk.greenBright.inverse.bold("Your notes...."))
-}
-
 const addNote = (title, body) => {
     const notes = loadNote()
     const duplicateNote = notes.find(note => note.title === title)
