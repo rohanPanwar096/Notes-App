@@ -1,16 +1,1 @@
-[
-  { "title": "Lists", "body": "Toys, Tops, cup" },
-  { "title": "Groceries", "body": "Veggies, Cheeze, Oregano, Bread" },
-  { "title": "Stuffs", "body": "Scarf, mask, muffler, socks" },
-  { "title": "Cake", "body": "baking powder, chocolate, milk, sugar, icing" },
-  { "title": "Things to buy", "body": "Books, notepad, laptop, phone" },
-  { "title": "T.V shows", "body": "70s show, GOT, FRIENDS" },
-  { "title": "Courses", "body": "React" },
-  { "title": "Hey", "body": "Goog lookin" },
-  {
-    "title": "Missa Missa Lyrics",
-    "body": "I'll be all alone i think i need a missa missa perfect emo blondie she couldd be amy mona lisa"
-  },
-  { "title": "Workout Meals", "body": "Oats, chicken, protein shake" },
-  { "title": "Food", "body": "Rajma, chole, rice" }
-]
+[{"title":"Lists","body":"Toys, Tops, cup"},{"title":"Groceries","body":"Veggies, Cheeze, Oregano, Bread"},{"title":"Stuffs","body":"Scarf, mask, muffler, socks"},{"title":"Cake","body":"baking powder, chocolate, milk, sugar, icing"},{"title":"Things to buy","body":"Books, notepad, laptop, phone"},{"title":"T.V shows","body":"70s show, GOT, FRIENDS"},{"title":"Hey","body":"Goog lookin"},{"title":"Missa Missa Lyrics","body":"I'll be all alone i think i need a missa missa perfect emo blondie she couldd be amy mona lisa"},{"title":"Workout Meals","body":"Oats, chicken, protein shake"},{"title":"Food","body":"Rajma, chole, rice"}]
